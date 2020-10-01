@@ -1,2 +1,2 @@
 # kupsofttech
-C program to check whether the no is odd/even &amp; Armstrong no or not.
+C program to check whether the number is odd/even &amp; Armstrong number or not.
